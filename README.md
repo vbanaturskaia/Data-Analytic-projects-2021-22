@@ -1,6 +1,6 @@
 <h1 align="center">Здраствуйте! Меня зовут <a href="https://www.facebook.com/vlada.banaturskaia" target="_blank">Влада</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Аналитик данных, Россия </h3>  
+<h3 align="center">Аналитик данных, Москва </h3>  
 
 ## Data-Analytic-projects-2021-22
 - Данный репозиторий создан для того, чтобы показать мои проекты от Яндекс.Практикума, где я проходила обучение с мая 2021 по май 2022 года. Здесь я хочу показать наиболее важные и ключевые навыки, которые были отработаны. По каждому проекту есть краткое описание и задачи.
