@@ -1,4 +1,4 @@
-<h1 align="center">Здраствуйте! Меня зовут <a href="https://www.facebook.com/vlada.banaturskaia" target="_blank">Влада</a> 
+<h1 align="center">Добрый день! Меня зовут <a href="https://www.facebook.com/vlada.banaturskaia" target="_blank">Машук Влада</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Аналитик данных, Москва </h3>  
 
